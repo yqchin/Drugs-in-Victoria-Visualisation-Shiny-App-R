@@ -1,6 +1,7 @@
 # Drug Crime Analysis in Victoria, Australia
 
 **Overview**
+
 This project provides a comprehensive analysis of drug-related incidents in Victoria, Australia, focusing on trends from 2013 to 2022. The data is visualized through graphs, maps, and charts, providing insights into:
 * Overall Drug Crime Trends: An upward trend in drug-related offenses was observed from 2013, peaking in 2020 with 18,697 incidents. A decline followed in 2021.
 * Offence Subdivisions: The most common offenses are Drug Use and Possession, followed by Drug Dealing and Trafficking.
