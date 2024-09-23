@@ -27,3 +27,12 @@ This project provides a comprehensive analysis of drug-related incidents in Vict
 * Crime Statistic Agency – Drug Types by LGA
 
 This project provides valuable insights into the drug crime landscape in Victoria, aiding in understanding patterns of drug-related offenses by demographics, locations, and types.
+
+**First Page (Overview and Demographic):**
+![image](https://github.com/user-attachments/assets/1de2886b-4a0a-4b64-9085-c0adf8d76ec8)
+
+**Second Page (Drug Crime Rates by LGA):**
+![image](https://github.com/user-attachments/assets/2ebea92a-f8f7-4e85-81ab-cafcec3d0274)
+
+**Third Page (Drug Types):**
+![image](https://github.com/user-attachments/assets/9f1d3903-8e30-4e57-942b-d037de0b9018)
